@@ -1,4 +1,4 @@
-# XSS via Indirect Prompt Injection in an LLM-Integrated Chat Application
+# XSS via Indirect Prompt Injection in an LLM-Integrated Chat Application PortSwigger
 
 > Lab-based security exercise. Target is an intentionally vulnerable, LLM-backed
 > web application in a controlled learning environment. No real systems or users
